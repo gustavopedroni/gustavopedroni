@@ -1,8 +1,8 @@
 ## Hi, I'm Gustavo 👋
 
-Senior Backend Engineer and Tech Lead from Brazil (UTC-3). I've been writing backend code for 10 years, with TypeScript and Node.js as my main stack since 2020.
+Senior Full-Stack Engineer and Tech Lead from Brazil (UTC-3). I've been building software for 10 years, with TypeScript and Node.js as my main stack since 2020.
 
-Right now I lead the backend and the engineering team behind **Aldo+**, a platform for a Brazilian fuel station network built around truck drivers: a mobile app with 130,000+ installs, an e-commerce integrated end to end with the stations' ERP, and a freight board for drivers.
+Right now I lead the engineering team behind **Aldo+**, a platform for a Brazilian fuel station network built around truck drivers, and build both the Node.js/AWS backend and the React Native app: a mobile app with 130,000+ installs, an e-commerce integrated end to end with the stations' ERP, and a freight board for drivers.
 
 ### What I work with
 
@@ -26,7 +26,7 @@ I use AI coding agents (Claude Code) every day and write my own agent skills for
 
 ### Contact
 
-I'm open to remote Senior Backend Engineer or Tech Lead roles with US or European teams.
+I'm open to remote Senior Full-Stack Engineer, Senior Backend Engineer or Tech Lead roles with US or European teams.
 
 - LinkedIn: [gustavo-pedroni](https://www.linkedin.com/in/gustavo-pedroni/)
 - Email: gstvpedroni@gmail.com
